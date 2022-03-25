@@ -10,9 +10,9 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+1. **bananas** **BOLD**
+2. *tamales* *ITALIC*
+3. ***cakes*** ***BOLD AND ITALIC***
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
